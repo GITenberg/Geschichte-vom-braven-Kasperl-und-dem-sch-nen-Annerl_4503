@@ -1,0 +1,42 @@
+_repo: Geschichte-vom-braven-Kasperl-und-dem-sch-nen-Annerl_4503
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 4503/4503-h/images/title-page.png
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Brentano, Clemens
+    aliases:
+    - Brentano, Clemens von
+    - Brentano, Clemens Maria
+    - Brentano, Clement
+    - Von Brentano, Clemens
+    birthdate: 1778
+    deathdate: 1842
+    gutenberg_agent_id: '882'
+    url: http://www.gutenberg.org/2009/agents/882
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Clemens_Brentano
+    - http://en.wikipedia.org/wiki/Clemens_Brentano
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4503'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weltschmerz'
+- !lcsh 'Germany -- History -- Coalition Wars, 1789-1814 -- Fiction'
+- !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PT'
+- !lcsh 'Honor'
+- GITenberg
+title: Geschichte vom braven Kasperl und dem schönen Annerl
+url: http://www.gutenberg.org/ebooks/4503
